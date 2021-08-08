@@ -728,4 +728,11 @@ iframe{
 .Services-box{
      min-height: 400px;
 }
-.logoText{font-family: 'Shadows Into Light', cursive;;}
+.logoText{font-family: 'Shadows Into Light', cursive;}
+#link{
+          font-size: large;
+          font-family: inherit;
+}
+.why-box{
+     min-height: 330px;
+}
