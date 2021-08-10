@@ -225,7 +225,7 @@ button {
 }
 
 .full {
-     width: 100%;
+     width: min-content;
      float: left;
      margin: 0;
      padding: 0;
@@ -318,8 +318,8 @@ button {
 
 .text-bg h1 {
      color: #fff;
-     font-size: 60px;
-     line-height: 80px;
+     font-size: 50px;
+     line-height: 60px;
      padding-bottom: 25px;
      font-weight: bold;
 }
@@ -735,4 +735,7 @@ iframe{
 }
 .why-box{
      min-height: 330px;
+}
+.buttonBorderRadius{
+     border-radius: 20px;
 }
